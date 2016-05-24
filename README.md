@@ -1,4 +1,6 @@
 MetabLAB
 ========
+@Metabolomics LAB
 
-Metabolomics LAB
+R package and function in R cran
+
